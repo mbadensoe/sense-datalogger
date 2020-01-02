@@ -6,6 +6,7 @@
 # [] Give file a timestamp
 # [x] Add Header to file
 # [x] Add sensible cronjob time interval -> Running every 2 mins via crontab
+# [] Add the crontab line used
 # [] Try out using a Class
 # [] Calibrate the temperature readings
 # [x] Add to git / github
