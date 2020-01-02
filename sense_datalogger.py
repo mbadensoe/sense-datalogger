@@ -8,7 +8,8 @@
 # [x] Add sensible cronjob time interval -> Running every 2 mins via crontab
 # [] Try out using a Class
 # [] Calibrate the temperature readings
-# [] Add to git / github
+# [x] Add to git / github
+# [] Add appropriate start and end of this file 
 
 # Import Libraries
 from sense_hat import SenseHat
